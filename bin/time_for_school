@@ -25,6 +25,8 @@ some_knowledge = avi.teach
 steve.learn(some_knowledge)
 adri.learn(some_knowledge)
 
+puts Student.each 
+
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
 puts "Steve just learned this important knowledge: "#{adri.knowledge.first} from Avi"
