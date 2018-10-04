@@ -27,5 +27,5 @@ adri.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
-puts "Steve just learned this important knowledge: "{Adri.knowledge.first} from Avi"
+puts "Steve just learned this important knowledge: "{adri.knowledge.first} from Avi"
 
